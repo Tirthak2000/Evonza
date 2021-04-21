@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "352836013785",
+    "project_id": "evonza-e7350",
+    "storage_bucket": "evonza-e7350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352836013785:android:b8202001192477988538c8",
+        "android_client_info": {
+          "package_name": "com.example.evonza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352836013785-lq6is4hfajrs5rg2t36v9v1efptv406a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaCbsRWX3bycz-2PRdLFTpnawnfRcKlkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352836013785-lq6is4hfajrs5rg2t36v9v1efptv406a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
